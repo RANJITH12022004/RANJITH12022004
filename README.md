@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Ranjith" />
+<img src="assets/banner.svg?v=2" width="100%" alt="Ranjith" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=720&height=40&lines=Lab+instrument+software;TypeScript+product+demos;Native+Windows+developer+tools" alt="Typing animation" />
@@ -42,7 +42,7 @@ I build instrument software, product demos, and developer tools — tablet teste
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RANJITH12022004&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=16&bg_color=0d1117&title_color=67e8f9&icon_color=22d3ee&text_color=e6edf3&ring_color=22d3ee&custom_title=GitHub%20Stats" width="400" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.shion.dev/api?username=RANJITH12022004&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=30363d&amp;border_radius=16&amp;bg_color=0d1117&amp;title_color=67e8f9&amp;icon_color=22d3ee&amp;text_color=e6edf3&amp;ring_color=22d3ee&amp;custom_title=GitHub%20Stats" width="400" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=RANJITH12022004&theme=tokyonight&hide_border=false&border=30363d&border_radius=16&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=67E8F9&sideLabels=8b949e&dates=8b949e&stroke=30363d" width="400" alt="GitHub Streak" />
@@ -52,15 +52,15 @@ I build instrument software, product demos, and developer tools — tablet teste
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANJITH12022004&layout=donut&langs_count=6&hide_border=false&border_color=30363d&border_radius=16&bg_color=0d1117&title_color=67e8f9&text_color=e6edf3&custom_title=Top%20Languages" width="380" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RANJITH12022004&amp;layout=donut&amp;langs_count=6&amp;hide_border=false&amp;border_color=30363d&amp;border_radius=16&amp;bg_color=0d1117&amp;title_color=67e8f9&amp;text_color=e6edf3&amp;custom_title=Top%20Languages" width="380" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RANJITH12022004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=6&rank=-SECRET" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=RANJITH12022004&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;column=6&amp;rank=-SECRET" alt="GitHub Trophies" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RANJITH12022004&theme=tokyo-night&hide_border=true&area=true&radius=16&bg_color=0d1117&color=67e8f9&line=22d3ee&point=a5b4fc&custom_title=Contribution%20activity" width="100%" alt="Activity Graph" />
+<img src="https://github-act-graph.rodriaum.com/graph?username=RANJITH12022004&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;bg_color=0d1117&amp;color=67e8f9&amp;line=22d3ee&amp;point=a5b4fc&amp;custom_title=Contribution%20activity" width="100%" alt="Activity Graph" />
 
 <img src="assets/divider.svg" width="520" alt="" />
 
