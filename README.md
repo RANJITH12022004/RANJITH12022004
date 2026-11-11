@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg?v=2" width="100%" alt="Ranjith" />
+<img src="assets/header.svg" width="100%" alt="Ranjith" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=720&height=40&lines=Lab+instrument+software;TypeScript+product+demos;Native+Windows+developer+tools" alt="Typing animation" />
