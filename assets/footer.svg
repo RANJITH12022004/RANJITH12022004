@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1828" stop-opacity="0"/>
+      <stop offset="1" stop-color="#071018"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="0%" r="70%">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="round">
+      <rect width="1200" height="90" rx="20"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="90" fill="url(#fade)"/>
+    <ellipse cx="600" cy="0" rx="280" ry="50" fill="url(#glow)"/>
+    <text x="600" y="58" text-anchor="middle" fill="#8b9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" letter-spacing="3">RANJITH12022004</text>
+  </g>
+</svg>

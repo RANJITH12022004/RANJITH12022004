@@ -1,114 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0e7490,100:22d3ee&height=210&section=header&text=Ranjith&fontSize=74&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=ranjith12022004&descAlignY=56&descSize=18" width="100%" alt="Banner" />
+<img src="assets/banner.svg" width="100%" alt="Ranjith" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Ranjith;I+build+software+that+ships;Lab+instruments+%C2%B7+web+apps+%C2%B7+dev+tools" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=720&height=40&lines=Lab+instrument+software;TypeScript+product+demos;Native+Windows+developer+tools" alt="Typing animation" />
 </a>
+
+<img src="assets/divider.svg" width="520" alt="" />
 
 </div>
 
-## 📌 About Me
+<h2 align="center">About</h2>
 
-💡 I build instrument software, product demos, and developer tools — tablet testers and 21 CFR systems, TypeScript apps, and native Windows tools like RXTerm and Marc.
+<p align="center">
+I build instrument software, product demos, and developer tools — tablet testers and 21 CFR systems, TypeScript apps, and native Windows tools like RXTerm and Marc.
+</p>
 
-- 🧪 Lab software for hardness, disintegration, tap density, and compliance workflows
-- 🌐 Product demos and marketing sites
-- 🖥️ Developer tools: terminals, IDEs, and assistants
-
-## 📊 GitHub Stats & Trophies
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Lab systems</strong><br/>
+      <sub>Hardness, disintegration, tap density, and compliance workflows</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Product demos</strong><br/>
+      <sub>Ordering, analytics, and marketing sites</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Dev tools</strong><br/>
+      <sub>Terminals, IDEs, and assistants for Windows</sub>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RANJITH12022004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&ring_color=22d3ee" height="165" alt="ranjith12022004's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=RANJITH12022004&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=8b949e" height="165" alt="ranjith12022004's GitHub Streak" />
+<img src="assets/divider.svg" width="520" alt="" />
+
+<h2>GitHub</h2>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=RANJITH12022004&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=16&bg_color=0d1117&title_color=67e8f9&icon_color=22d3ee&text_color=e6edf3&ring_color=22d3ee&custom_title=GitHub%20Stats" width="400" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=RANJITH12022004&theme=tokyonight&hide_border=false&border=30363d&border_radius=16&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=67E8F9&sideLabels=8b949e&dates=8b949e&stroke=30363d" width="400" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-### Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANJITH12022004&layout=donut&langs_count=6&hide_border=false&border_color=30363d&border_radius=16&bg_color=0d1117&title_color=67e8f9&text_color=e6edf3&custom_title=Top%20Languages" width="380" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANJITH12022004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" height="165" alt="Top Languages" />
+<br/>
 
-<br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=RANJITH12022004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=6&rank=-SECRET" alt="GitHub Trophies" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=RANJITH12022004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=-SECRET" alt="ranjith12022004's GitHub Trophies" />
+<br/>
 
-<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RANJITH12022004&theme=tokyo-night&hide_border=true&area=true&radius=16&bg_color=0d1117&color=67e8f9&line=22d3ee&point=a5b4fc&custom_title=Contribution%20activity" width="100%" alt="Activity Graph" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RANJITH12022004&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=67e8f9&custom_title=ranjith12022004%27s%20Activity%20Graph" width="100%" alt="ranjith12022004's Activity Graph" />
+<img src="assets/divider.svg" width="520" alt="" />
 
-</div>
+<h2>Languages & tools</h2>
 
-## 🛠️ Languages & Tools
+**Languages**
 
-**Programming Languages**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,php&theme=dark" alt="Programming Languages" />
-</div>
-
-JavaScript · TypeScript · Python · Java · C++ · PHP
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,php&theme=dark" alt="JavaScript, TypeScript, Python, Java, C++, PHP" />
+</p>
 
 **Frontend**
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
-</div>
-
-React · Next.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="React, Next.js, HTML, CSS, Tailwind, Bootstrap" />
+</p>
 
 **Backend**
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
-</div>
-
-Node.js · Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express" />
+</p>
 
 **Database**
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark" alt="Database" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Redis, SQLite" />
+</p>
 
-MySQL · PostgreSQL · MongoDB · Redis · SQLite
+**DevOps & cloud**
 
-**DevOps & Cloud**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins&theme=dark" alt="DevOps and Cloud" />
-</div>
-
-Docker · Kubernetes · AWS · Google Cloud · Azure · Jenkins
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins&theme=dark" alt="Docker, Kubernetes, AWS, Google Cloud, Azure, Jenkins" />
+</p>
 
 **Tools**
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,webpack,vite&theme=dark" alt="Tools" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,webpack,vite&theme=dark" alt="Git, VS Code, Figma, Postman, Webpack, Vite" />
+</p>
 
-Git · VS Code · Figma · Postman · Webpack · Vite
+<img src="assets/divider.svg" width="520" alt="" />
 
-## 🔗 Connect with Me
+<h2>Connect</h2>
 
-<div align="left">
+<p>
+  <a href="https://github.com/RANJITH12022004"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=67e8f9" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=67e8f9" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=67e8f9" alt="Gmail" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RANJITH12022004)
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-
-</div>
-
-<div align="center">
-
-### github-snake
+<h3>Contribution snake</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RANJITH12022004/RANJITH12022004/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RANJITH12022004/RANJITH12022004/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RANJITH12022004/RANJITH12022004/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/RANJITH12022004/RANJITH12022004/output/github-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,55:0e7490,100:020617&height=110&section=footer" width="100%" alt="" />
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
